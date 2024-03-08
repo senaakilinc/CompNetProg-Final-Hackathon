@@ -1,0 +1,14 @@
+C:\Users\BERKİN\Source\Repos\player2\player2\bin\Debug\net8.0\player2.exe
+C:\Users\BERKİN\Source\Repos\player2\player2\bin\Debug\net8.0\player2.deps.json
+C:\Users\BERKİN\Source\Repos\player2\player2\bin\Debug\net8.0\player2.runtimeconfig.json
+C:\Users\BERKİN\Source\Repos\player2\player2\bin\Debug\net8.0\player2.dll
+C:\Users\BERKİN\Source\Repos\player2\player2\bin\Debug\net8.0\player2.pdb
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\player2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\player2.AssemblyInfoInputs.cache
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\player2.AssemblyInfo.cs
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\player2.csproj.CoreCompileInputs.cache
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\player2.dll
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\refint\player2.dll
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\player2.pdb
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\player2.genruntimeconfig.cache
+C:\Users\BERKİN\Source\Repos\player2\player2\obj\Debug\net8.0\ref\player2.dll
